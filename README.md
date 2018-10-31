@@ -4,11 +4,14 @@ Extricating the sheet resistance of transparent conductive oxide from series res
 Simulation in Python. Main packages required: math, numpy, scipy, joblib and matplotlib.
 
 Parallel processing employed using joblib.
-
+-----
 The cell is discretized into multiple cells in series.
 ![Schematic](Schematic.png)
 
-
-
+-----
 Calculates Root Mean Squared Error for a set of Intrinsic series resistances. The minimum gives the cell's internal resistance.
-![RMSE](RMSerror_vs_Rintrinsic.jpeg)
+![RMSE](RMSerror_vs_Rintrinsic.png)
+
+-----
+Comparison with Rseries vs Rintrinsic
+![plot](IV_RintrinsicDetermination v3.png)
