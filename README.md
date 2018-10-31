@@ -14,4 +14,4 @@ Calculates Root Mean Squared Error for a set of Intrinsic series resistances. Th
 
 -----
 Comparison with Rseries vs Rintrinsic
-![plot](IV_RintrinsicDetermination v3.png)
+![plot](IV_RintrinsicDetermination_v3.png)
