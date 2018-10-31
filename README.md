@@ -8,5 +8,7 @@ Parallel processing employed using joblib.
 The cell is discretized into multiple cells in series.
 ![Schematic](Schematic.png)
 
+
+
 Calculates Root Mean Squared Error for a set of Intrinsic series resistances. The minimum gives the cell's internal resistance.
 ![RMSE](RMSerror_vs_Rintrinsic.jpeg)
