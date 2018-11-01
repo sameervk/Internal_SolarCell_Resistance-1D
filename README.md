@@ -7,6 +7,7 @@ Simulation in Python. Main packages required: math, numpy, scipy, joblib and mat
 Parallel processing employed using joblib.
 
 ![Joblib](threads_vs_time_vs_temp.png)
+
 -----
 The cell is discretized into multiple cells in series.
 ![Schematic](Schematic.png)
