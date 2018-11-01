@@ -16,6 +16,4 @@ Comparison with Rseries vs Rintrinsic.
 
 ![plot](IV_RintrinsicDetermination_v3.png)
 -----
-Parallel processing employed using joblib.
 
-![Parallel](threads_vs_time_vs_temp.png)
