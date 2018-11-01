@@ -8,7 +8,7 @@ Simulation in Python. Main packages required: math, numpy, scipy, joblib and mat
 
 -----
 The cell is discretized into multiple cells in series.
-![Schematic](Schematic.png)
+![Schematic](Schematic_1.png)
 
 -----
 Calculates Root Mean Squared Error for a set of Intrinsic series resistances. The minimum gives the cell's internal resistance.
